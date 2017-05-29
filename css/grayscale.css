@@ -217,6 +217,12 @@ a:focus {
     transform: scale(1);
   }
 }
+.Flachwasserzone{
+.Flachwasserzone-titel{
+  padding-top: 100px;
+}
+}
+
 .content-section {
   padding-top: 100px;
 }
